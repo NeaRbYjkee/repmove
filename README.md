@@ -1,11 +1,10 @@
-Playwright Sign-In/Sign-Up E2E Tests
+## Playwright Sign-In/Sign-Up E2E Tests
 # Requirements:
-Node.js 18+
+Node.js 18+ n/
 npm 8+
 
 # Quick start:
-git clone <YOUR_REPO_URL>.git
-cd <repo>
+clone project
 npm install
 npx playwright install --with-deps
 create an .env file in root with:
